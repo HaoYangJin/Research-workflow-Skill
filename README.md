@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Skill Format](https://img.shields.io/badge/Skill-Anthropic--style-blue)](SKILL.md)
-[![Version](https://img.shields.io/badge/version-v0.1.1-green)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v0.1.0-green)](CHANGELOG.md)
 
 一个面向学术研究全生命周期的开源 Skill：让 Claude 像资深导师一样提出问题、给出路径，也能像严格同行评审一样审稿、挑错、逼近薄弱环节。
 

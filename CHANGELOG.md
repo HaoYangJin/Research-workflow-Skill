@@ -5,14 +5,6 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.1.1] - 2026-05-16
-
-### Changed
-
-- Expanded reviewer-mode trigger phrases with `reviewer mode` and `审查模式`.
-- Added canonical `mixed` mode for combined mentor guidance and reviewer critique.
-- Removed publish-to-GitHub setup instructions from user-facing documentation.
-
 ## [0.1.0] - 2026-05-16
 
 ### Added

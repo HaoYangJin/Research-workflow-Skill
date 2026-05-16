@@ -1,0 +1,63 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.next/
+.nuxt/
+coverage/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Research artifacts that should not be committed by accident
+data/
+datasets/
+outputs/
+results/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.onnx
+
+# Documents generated during local drafting
+~$*.docx
+*.bak

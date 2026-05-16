@@ -1,0 +1,29 @@
+# Results interpretation and ablation thinking / 结果分析与消融
+
+English summary: Interpret results cautiously, attribute improvements correctly, and design ablations that test the mechanism.
+
+## Checklist
+
+- 先回答主研究问题，再解释局部结果。
+- 区分统计显著、实际显著和应用有意义。
+- 为每个核心组件设计消融，说明删除、替换或冻结后的预期变化。
+- 做误差分析：失败样本、边界条件、异常场景、分布外样本。
+- 检查结果是否跨数据集、时间段、区域、任务或模型规模稳定。
+- 明确限制：适用范围、数据偏差、计算成本、泛化边界。
+
+## Mentor prompts
+
+- 哪个结果最能支撑你的核心 claim？哪个结果最容易被质疑？
+- 改进来自方法机制，还是来自额外数据、特征工程或训练预算？
+- 是否存在 "平均提升" 掩盖某些子群体显著变差？
+- 一张什么图能让读者立刻理解结果？
+- 如果只能保留 3 个表/图，应该保留哪些？
+
+## Reviewer red flags
+
+- 结论超过实验支持范围。
+- 消融只做 "去掉模块性能下降"，但没有解释机制。
+- 只展示 aggregate metric，不展示误差分布或关键子场景。
+- 忽略负结果、失败案例和成本。
+- 用不显著的小幅提升包装成重大突破。
+- 讨论部分没有回到研究问题和假设。

@@ -19,7 +19,6 @@ This is an open-source research workflow Skill for the full academic lifecycle. 
   - [How It Works: 9 个科研阶段](#how-it-works-9-个科研阶段)
   - [示例](#示例)
 - [English](#english)
-  - [Visual Guide](#visual-guide)
   - [Use Cases](#use-cases)
   - [Quick Start](#quick-start)
   - [How It Works: 9 Research Phases](#how-it-works-9-research-phases)
@@ -89,14 +88,6 @@ This is an open-source research workflow Skill for the full academic lifecycle. 
 ```
 
 ## English
-
-### Visual Guide
-
-The following diagrams give users a quick overview of the installation paths, mode selection, and a typical input-to-output workflow.
-
-![Research Workflow Skill usage flow](assets/readme/research-workflow-usage-flow.png)
-
-![Research Workflow Skill usage example](assets/readme/research-workflow-usage-example.png)
 
 ### Use Cases
 

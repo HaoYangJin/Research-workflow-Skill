@@ -13,11 +13,13 @@ This is an open-source research workflow Skill for the full academic lifecycle. 
 ## Table of Contents
 
 - [中文说明](#中文说明)
+  - [使用图示](#使用图示)
   - [适用场景](#适用场景)
   - [快速开始](#快速开始)
   - [How It Works: 9 个科研阶段](#how-it-works-9-个科研阶段)
   - [示例](#示例)
 - [English](#english)
+  - [Visual Guide](#visual-guide)
   - [Use Cases](#use-cases)
   - [Quick Start](#quick-start)
   - [How It Works: 9 Research Phases](#how-it-works-9-research-phases)
@@ -27,6 +29,14 @@ This is an open-source research workflow Skill for the full academic lifecycle. 
 - [License](#license)
 
 ## 中文说明
+
+### 使用图示
+
+下面两张图帮助你快速理解 `research-mentor` 的安装路径、模式选择和一次典型输入到输出的过程。
+
+![Research Workflow Skill 使用流程图](assets/readme/research-workflow-usage-flow.png)
+
+![Research Workflow Skill 使用实例图](assets/readme/research-workflow-usage-example.png)
 
 ### 适用场景
 
@@ -79,6 +89,14 @@ This is an open-source research workflow Skill for the full academic lifecycle. 
 ```
 
 ## English
+
+### Visual Guide
+
+The following diagrams give users a quick overview of the installation paths, mode selection, and a typical input-to-output workflow.
+
+![Research Workflow Skill usage flow](assets/readme/research-workflow-usage-flow.png)
+
+![Research Workflow Skill usage example](assets/readme/research-workflow-usage-example.png)
 
 ### Use Cases
 
@@ -141,6 +159,8 @@ Expected response:
 ├── README.md
 ├── references/
 ├── examples/
+├── assets/
+│   └── readme/
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 ├── CHANGELOG.md

@@ -36,3 +36,7 @@ Also read the changed Markdown files once in rendered preview or a Markdown view
 - List changed files.
 - Mention whether you changed routing behavior in `SKILL.md`.
 - Include at least one example prompt when changing mode or phase behavior.
+
+## Main-only maintenance workflow
+
+This repository is maintained directly on `main`. Do not create `feature/*` or `codex-*` branches for routine maintenance. Maintenance logs, package snapshots, temporary drafts, and local `plans/`, `memory/`, `sessions/`, or `transcripts/` directories should stay out of version control.

@@ -46,6 +46,14 @@ coverage/
 *.tmp
 *.temp
 .cache/
+*.old
+
+# Maintenance and local session artifacts
+.package-*/
+plans/
+memory/
+sessions/
+transcripts/
 
 # Research artifacts that should not be committed by accident
 data/

@@ -33,9 +33,9 @@ This is an open-source research workflow Skill for the full academic lifecycle. 
 
 下面两张图帮助你快速理解 `research-mentor` 的安装路径、模式选择和一次典型输入到输出的过程。
 
-![Research Workflow Skill 使用流程图](assets/readme/research-workflow-usage-flow.png)
+![Research Workflow Skill 使用流程图](assets/research-workflow-usage-flow.png)
 
-![Research Workflow Skill 使用实例图](assets/readme/research-workflow-usage-example.png)
+![Research Workflow Skill 使用实例图](assets/research-workflow-usage-example.png)
 
 ### 适用场景
 
